@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/React_Base/static/css/main.073c9b0a.css",
-    "main.js": "/React_Base/static/js/main.cc677ddd.js",
+    "main.css": "/React_Base/static/css/main.a71fea8e.css",
+    "main.js": "/React_Base/static/js/main.7e8f8712.js",
     "static/js/787.28cb0dcd.chunk.js": "/React_Base/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/React_Base/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/proj6.png": "/React_Base/static/media/proj6.bbda91ca7f209247913f.png",
+    "static/media/proj5.jpg": "/React_Base/static/media/proj5.0648813998893b8c53d0.jpg",
+    "static/media/proj3.webp": "/React_Base/static/media/proj3.419d7d3eb4e124126660.webp",
+    "static/media/proj2.jpg": "/React_Base/static/media/proj2.496e4d289eaa0f409ab8.jpg",
+    "static/media/proj1.jpg": "/React_Base/static/media/proj1.3fb0bdc7583872ea12b3.jpg",
+    "static/media/proj4.webp": "/React_Base/static/media/proj4.21aa3100d2e1859f6029.webp",
     "index.html": "/React_Base/index.html",
-    "main.073c9b0a.css.map": "/React_Base/static/css/main.073c9b0a.css.map",
-    "main.cc677ddd.js.map": "/React_Base/static/js/main.cc677ddd.js.map",
+    "main.a71fea8e.css.map": "/React_Base/static/css/main.a71fea8e.css.map",
+    "main.7e8f8712.js.map": "/React_Base/static/js/main.7e8f8712.js.map",
     "787.28cb0dcd.chunk.js.map": "/React_Base/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.cc677ddd.js"
+    "static/css/main.a71fea8e.css",
+    "static/js/main.7e8f8712.js"
   ]
 }
